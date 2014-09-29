@@ -1,0 +1,1 @@
+(function(){!function(){var o,n,c;c=function(){console.log("hoge")},n=function(){console.log("fuga")},o=function(){console.log("foo")}}(document,window)}).call(this);
